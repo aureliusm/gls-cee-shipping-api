@@ -12,7 +12,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-	    "php"               : "^7.1",
+	    "php"               : "^8.0",
         "ext-zlib": "*",
         "ext-dom": "*",
         "ext-simplexml": "*",
@@ -23,7 +23,7 @@
         "tightenco/collect":"^5.4",
         "monolog/monolog":"^1.23",
         "econea/nusoap":"~0.9.5.4",
-        "butopea/monolog-logdna": "^2.1"
+        "butopea/monolog-logdna": "^1.1"
     },
 	"autoload": {
 		"psr-4": {
